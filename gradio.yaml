@@ -1,1 +1,1 @@
-app: funclip/launch.py
+app: app/main.py 
