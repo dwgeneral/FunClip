@@ -1,6 +1,6 @@
 {
     "python": {
         "version": "3.11.11",
-        "entry": "python app/main.py"
+        "entry": "app/main.py"
     }
 }
