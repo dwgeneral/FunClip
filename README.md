@@ -1,3 +1,9 @@
+---
+title: FunClip
+app_file: funclip/launch.py
+sdk: gradio
+sdk_version: 5.9.1
+---
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=FunClip%20%20🥒&width=800&height=210)](https://github.com/Akshay090/svg-banners)
 
 ### <p align="center">「[简体中文](./README_zh.md) | English」</p>
