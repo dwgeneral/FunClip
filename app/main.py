@@ -166,7 +166,7 @@ if __name__ == "__main__":
             return None, (sr, res_audio), message, clip_srt
     
     # gradio interface
-    theme = gr.Theme.load("funclip/utils/theme.json")
+    theme = gr.Theme.load("app/utils/theme.json")
     with gr.Blocks(theme=theme) as funclip_service:
         gr.Markdown(top_md_1)
         # gr.Markdown(top_md_2)
